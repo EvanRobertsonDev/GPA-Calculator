@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Course xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CourseName>Programming 1</CourseName>
+  <CourseGradeLetter>
+    <Letter>A</Letter>
+  </CourseGradeLetter>
+  <CourseCredits>2</CourseCredits>
+  <StudentID>21377a5c-b157-451e-ae3a-930352886987</StudentID>
+</Course>

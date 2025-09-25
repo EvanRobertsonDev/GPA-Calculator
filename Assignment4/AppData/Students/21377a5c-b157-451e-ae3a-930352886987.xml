@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StudentID>21377a5c-b157-451e-ae3a-930352886987</StudentID>
+  <Name>Kyle</Name>
+  <Courses />
+</Student>
